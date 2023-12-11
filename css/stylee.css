@@ -1336,121 +1336,120 @@ ul {
         width: fit-content;
     }
 
-    .tap {
+    .tab {
         margin-left: 10px;
         margin-right: 10px;
         padding: 10px;
     }
-}
 
-.settings-page {
-    grid-template-columns: minmax(100px, 1fr);
-    margin-left: 10px;
-    margin-right: 10px;
-    gap: 10px;
-}
+    .settings-page {
+        grid-template-columns: minmax(100px, 1fr);
+        margin-left: 10px;
+        margin-right: 10px;
+        gap: 10px;
+    }
 
-.backup .servers {
-    flex-wrap: wrap;
-}
+    .backup .servers {
+        flex-wrap: wrap;
+    }
 
-.profile-page {
-    margin-left: 10px;
-    margin-right: 10px;
-    gap: 10px;
-}
+    .profile-page {
+        margin-left: 10px;
+        margin-right: 10px;
+        gap: 10px;
+    }
 
-.profile-page .avatar-box {
-    border: none
-}
+    .profile-page .avatar-box {
+        border: none
+    }
 
-.profile-page .profile-view {
-    flex-direction: column;
-}
+    .profile-page .profile-view {
+        flex-direction: column;
+    }
 
-.profile-page .avatar-box img {
-    width: 120px;
-    height: 120px;
-}
+    .profile-page .avatar-box img {
+        width: 120px;
+        height: 120px;
+    }
 
-.profile-page .info-box .box>div {
-    width: 100%;
-}
+    .profile-page .info-box .box>div {
+        width: 100%;
+    }
 
-.pro.toggle-switch {
-    margin: auto;
-}
+    .pro.toggle-switch {
+        margin: auto;
+    }
 
-.other-data .activities .activity {
-    flex-direction: column;
-}
+    .other-data .activities .activity {
+        flex-direction: column;
+    }
 
-.other-data .activities .activity img {
-    margin-right: 0px;
-    margin-bottom: 15px;
-}
+    .other-data .activities .activity img {
+        margin-right: 0px;
+        margin-bottom: 15px;
+    }
 
-.other-data .activities .activity .data {
-    margin-top: 15px;
-}
+    .other-data .activities .activity .data {
+        margin-top: 15px;
+    }
 
-.projects {
-    grid-template-columns: minmax(200px, 1fr);
-    margin-left: 10px;
-    margin-right: 10px;
-    gap: 10px;
-}
+    .projects {
+        grid-template-columns: minmax(200px, 1fr);
+        margin-left: 10px;
+        margin-right: 10px;
+        gap: 10px;
+    }
 
-.projects .project .do {
-    flex-direction: column;
-}
+    .projects .project .do {
+        flex-direction: column;
+    }
 
-.projects .project .do span:not(:last-child) {
-    margin-bottom: 10px;
-}
+    .projects .project .do span:not(:last-child) {
+        margin-bottom: 10px;
+    }
 
-.projects .project .info {
-    flex-direction: column;
-}
+    .projects .project .info {
+        flex-direction: column;
+    }
 
-.projects .project .progress {
-    margin-bottom: 15px;
-}
+    .projects .project .progress {
+        margin-bottom: 15px;
+    }
 
-.projects .project .progress {
-    width: 220px;
-}
+    .projects .project .progress {
+        width: 220px;
+    }
 
-.courses {
-    grid-template-columns: minmax(200px, 1fr);
-    margin-left: 10px;
-    margin-right: 10px;
-    gap: 10px;
-}
+    .courses {
+        grid-template-columns: minmax(200px, 1fr);
+        margin-left: 10px;
+        margin-right: 10px;
+        gap: 10px;
+    }
 
-.friends {
-    grid-template-columns: minmax(200px, 1fr);
-    margin-left: 10px;
-    margin-right: 10px;
-    gap: 10px;
-    padding: 0;
-}
+    .friends {
+        grid-template-columns: minmax(200px, 1fr);
+        margin-left: 10px;
+        margin-right: 10px;
+        gap: 10px;
+        padding: 0;
+    }
 
-.files {
-    flex-direction: column;
-    align-items: normal;
-    gap: 10px;
-    margin-left: 10px;
-    margin-right: 10px;
-}
+    .files {
+        flex-direction: column;
+        align-items: normal;
+        gap: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
 
 
-.plans {
-    grid-template-columns: minmax(250px, 1fr);
-    margin-left: 10px;
-    margin-right: 10px;
-    gap: 10px;
-}
+    .plans {
+        grid-template-columns: minmax(250px, 1fr);
+        margin-left: 10px;
+        margin-right: 10px;
+        gap: 10px;
+    }
 }
 
 /* End Mobile */
