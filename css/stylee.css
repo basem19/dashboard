@@ -1336,7 +1336,7 @@ ul {
         width: fit-content;
     }
 
-    .project {
+    .project.tap {
         margin-left: 10px;
         margin-right: 10px;
         gap: 10px;
@@ -1351,6 +1351,12 @@ ul {
 
     .backup .servers {
         flex-wrap: wrap;
+    }
+
+    .profile-page {
+        margin-left: 10px;
+        margin-right: 10px;
+        gap: 10px;
     }
 
     .profile-page .avatar-box {
